@@ -2,6 +2,7 @@
 
 ## Task:
 Create a model to predict the genre of the music to be liked by a person in accordance with age and gender.</br>
+This problem comes under <b>Supervised learning</b> as we have labelled the dataset. We will be using <b> Decision Tree Classifier</b> to achieve the result.
 
 ## Dataset:
 Reference: Programming with Mosh,  https://bit.ly/3muqqta
